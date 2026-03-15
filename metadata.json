@@ -1,0 +1,7 @@
+{
+  "name": "Online AI Notes",
+  "description": "A comprehensive AI-powered notes assistant for students featuring lecture summarization, smart categorization, and real-time understanding feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
